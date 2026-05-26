@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvpdate",
+        "uuid": 8171886,
+        "checksum": "bai39"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
